@@ -19,7 +19,7 @@
 
 
 
-[Snake animation](https://github.com/Luaalmed/Luaalmed/blob/output/github-contribution-grid-snake.svg)
+
           
           
           

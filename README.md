@@ -3,8 +3,8 @@
 
 
 - 🔭 Atualmente estou trabalhando na aréa de finanças ...
-- 🌱 Estou aprendendo Python  e C ...
-- 📫 Estou cursando o 2º Semestre de Ciência da Computação no centro Universitário FEI
+- 🌱 Estou aprendendo atualmente Java.
+- 📫 Estou cursando o 3º Semestre de Ciência da Computação no centro Universitário FEI
 
   ## Ferramentas e Tecnologias
   

@@ -2,9 +2,9 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente estou trabalhando na aréa de finanças ...
+- 🔭 Atualmente estou trabalhando na Banco Santander na aréa de Supervisão Monitoramento e Conduta.
 - 🌱 Estou aprendendo atualmente Java.
-- 📫 Estou cursando o 3º Semestre de Ciência da Computação no centro Universitário FEI
+- 📫 Estou cursando o 4º Semestre de Ciência da Computação no centro Universitário FEI
 
   ## Ferramentas e Tecnologias
   

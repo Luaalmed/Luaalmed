@@ -2,8 +2,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente estou trabalhando na Banco Santander na aréa de Supervisão Monitoramento e Conduta.
-- 🌱 Estou aprendendo atualmente Java.
+- 🔭 Atualmente estou trabalhando na Banco Santander na aréa de People & Analytics
+- 🌱 Estou aprendendo atualmente React Native
 - 📫 Estou cursando o 4º Semestre de Ciência da Computação no centro Universitário FEI
 
   ## Ferramentas e Tecnologias

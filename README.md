@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando na Banco Santander na aréa de People & Analytics
 - 🌱 Estou aprendendo atualmente React Native
-- 📫 Estou cursando o 4º Semestre de Ciência da Computação no centro Universitário FEI
+- 📫 Estou cursando o 5º Semestre de Ciência da Computação no centro Universitário FEI
 
   ## Ferramentas e Tecnologias
   

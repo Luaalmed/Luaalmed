@@ -2,9 +2,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente estou trabalhando na Banco Santander na aréa de People & Analytics
-- 🌱 Estou aprendendo atualmente SAS
-- 📫 Estou cursando o 5º Semestre de Ciência da Computação no centro Universitário FEI
+- 🔭 Atualmente estou trabalhando na Banco Itaú na área de Operações Jurídicas Data Analytics
+- 📫 Estou cursando o 6º Semestre de Ciência da Computação no centro Universitário FEI
 
   ## Ferramentas e Tecnologias
   
